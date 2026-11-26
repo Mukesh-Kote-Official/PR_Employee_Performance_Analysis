@@ -116,7 +116,7 @@ pip install -r requirements.txt
 ### 4.3 Run the Analysis
 
 ```bash
-# (Optional) regenerate the dataset, which gives an identical file
+# (Optional) generate a new comparable synthetic dataset
 python generate_dataset.py
 
 # Launch the notebook
