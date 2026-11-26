@@ -73,6 +73,24 @@ employee-performance-analysis/
 | `Performance_Score` | float | Performance score (0 to 100) | 32.7 to 100 (mean about 68.5) |
 | `Promotion_Status` | categorical | Whether the employee was promoted | Yes / No |
 
+
+---
+
+## 📈 Mathematical Visualizations
+
+
+### Histogram of Performance_Score with Gaussian Curve
+The histogram closely follows the red Gaussian curve, so Performance_Score is approximately normally distributed.
+
+![Histogram of Performance_Score with Gaussian curve](images/Histogram of Performance_Score With Gaussian Curve.png)
+
+### Q-Q Plot of Projects_Completed
+The points follow the line in the middle, with steps because the data is count data, and a slightly heavier right tail.
+
+![Q-Q plot of Projects_Completed](images/projects_completed_qq_plot.png)
+
+---
+
 ### 3.2 Department Distribution
 
 | Department | Employees |
