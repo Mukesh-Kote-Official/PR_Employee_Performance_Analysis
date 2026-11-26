@@ -43,6 +43,9 @@ A statistics and linear-algebra project that explores **employee performance** a
 
 ```text
 employee-performance-analysis/
+── Images/
+│   ├── Histogram of Performance_Score With Gaussian Curve.png
+│   └── Q-Q Plot Of Project_completed.png
 ├── employee_performance.csv
 ├── Employee_Performance_Analysis_Corrected.ipynb
 ├── Employee_Performance_Report_Corrected.docx
