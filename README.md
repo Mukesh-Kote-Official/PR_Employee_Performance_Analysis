@@ -43,6 +43,9 @@ A statistics and linear-algebra project that explores **employee performance** a
 
 ```text
 employee-performance-analysis/
+── Images/
+│   ├── Histogram of Performance_Score With Gaussian Curve.png
+│   └── Q-Q Plot Of Project_completed.png
 ├── employee_performance.csv
 ├── Employee_Performance_Analysis_Corrected.ipynb
 ├── Employee_Performance_Report_Corrected.docx
@@ -69,6 +72,24 @@ employee-performance-analysis/
 | `Working_Hours` | integer | Weekly working hours | 30 to 61 (mean about 45) |
 | `Performance_Score` | float | Performance score (0 to 100) | 32.7 to 100 (mean about 68.5) |
 | `Promotion_Status` | categorical | Whether the employee was promoted | Yes / No |
+
+
+---
+
+## 📈 Mathematical Visualizations
+
+
+### Histogram of Performance_Score with Gaussian Curve
+The histogram closely follows the red Gaussian curve, so Performance_Score is approximately normally distributed.
+
+![Histogram of Performance_Score with Gaussian curve](images/Histogram of Performance_Score With Gaussian Curve.png)
+
+### Q-Q Plot of Projects_Completed
+The points follow the line in the middle, with steps because the data is count data, and a slightly heavier right tail.
+
+![Q-Q plot of Projects_Completed](images/projects_completed_qq_plot.png)
+
+---
 
 ### 3.2 Department Distribution
 
@@ -113,7 +134,7 @@ pip install -r requirements.txt
 ### 4.3 Run the Analysis
 
 ```bash
-# (Optional) regenerate the dataset, which gives an identical file
+# (Optional) generate a new comparable synthetic dataset
 python generate_dataset.py
 
 # Launch the notebook
@@ -279,8 +300,20 @@ All pairwise angles among the first 5 employees are below 9° (smallest 0.867° 
 
 ---
 
-## Author
+## 👨‍💻 Author
 
-Prepared for the *Practical Exam: Mathematics & Advanced Statistics*, Red & White Skill Education.
+**Mukesh Kote**
 
-> *"Quality is our Motto." / BRING ON YOUR CODING ATTITUDE*
+GitHub: [@Mukesh-Kote-Official](https://github.com/Mukesh-Kote-Official)
+
+**Project:** Employee-Performance-and-Promotion-Analysis
+
+---
+
+<p align="center">
+  <strong>⭐ If you find this project useful, consider giving it a star!</strong>
+</p>
+
+<p align="center">
+  Thank you for visiting my repository!
+</p>
