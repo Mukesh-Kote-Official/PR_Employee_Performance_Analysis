@@ -82,12 +82,12 @@ employee-performance-analysis/
 ### Histogram of Performance_Score with Gaussian Curve
 The histogram closely follows the red Gaussian curve, so Performance_Score is approximately normally distributed.
 
-![Histogram of Performance_Score with Gaussian curve](images/Histogram of Performance_Score With Gaussian Curve.png)
+![Histogram of Performance_Score with Gaussian curve](images/Histogram_of_Performance_Score_With_Gaussian_Curve.png)
 
 ### Q-Q Plot of Projects_Completed
 The points follow the line in the middle, with steps because the data is count data, and a slightly heavier right tail.
 
-![Q-Q plot of Projects_Completed](images/projects_completed_qq_plot.png)
+![Q-Q plot of Projects_Completed](images/Q-Q_Plot_Of_Project_completed.png)
 
 ---
 
