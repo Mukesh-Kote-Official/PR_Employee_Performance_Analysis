@@ -279,8 +279,20 @@ All pairwise angles among the first 5 employees are below 9° (smallest 0.867° 
 
 ---
 
-## Author
+## 👨‍💻 Author
 
-Prepared for the *Practical Exam: Mathematics & Advanced Statistics*, Red & White Skill Education.
+**Mukesh Kote**
 
-> *"Quality is our Motto." / BRING ON YOUR CODING ATTITUDE*
+GitHub: [@Mukesh-Kote-Official](https://github.com/Mukesh-Kote-Official)
+
+**Project:** Employee-Performance-and-Promotion-Analysis
+
+---
+
+<p align="center">
+  <strong>⭐ If you find this project useful, consider giving it a star!</strong>
+</p>
+
+<p align="center">
+  Thank you for visiting my repository!
+</p>
